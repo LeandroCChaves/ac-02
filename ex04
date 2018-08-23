@@ -1,0 +1,12 @@
+Exercicio 04
+
+<html>
+    acesse a página 
+    <a href="AC2_exe01.html">Inteligência artificial</a> <br/>
+    acesse a página 
+    <a href="AC2_exe02.html">Campeonato Brasileiro</a> <br/>
+    acesse a página 
+    <a href="AC2_exe03.html">Supermercado</a> <br/>
+    acesse a página 
+    <a href="AC2_exe05.html">Cadastro de Editoras</a> <br/>
+</html>
