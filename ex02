@@ -1,0 +1,70 @@
+#Exercicio 02
+
+#<html>
+    <body>
+        <center><h1>CAMPEONATO BRASILEIRO</center></h1></p>
+        <strong>TABELA</strong></br>
+        <table border = '1'>
+            <tr>
+                <td>Classificacaoo</td>
+                <td>P</td>
+                <td>GP</td>
+                <td>J</td>
+                <td>GC</td>
+                <td>SG</td>
+            </tr>
+            <tr>
+                <td><font color = '0000ff'>1</font>	Corinthians</td>
+                <td>41</td>
+                <td>32</td>
+                <td>19</td>
+                <td>16</td>
+                <td>16</td>
+            </tr>
+            <tr>
+                <td><font color = '0000ff'>2</font>	Internacional</td>
+                <td>38</td>
+                <td>27</td>
+                <td>19</td>
+                <td>12</td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td><font color = '0000ff'>3</font>	Flamengo</td>
+                <td>37</td>
+                <td>29</td>
+                <td>19</td>
+                <td>15</td>
+                <td>14</td>
+            </tr>
+            <tr>
+                <td><font color = '0000ff'>4</font>	Gremio</td>
+                <td>36</td>
+                <td>23</td>
+                <td>19</td>
+                <td>8</td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td><font color = '0000ff'>5</font>	Atletico-MG</td>
+                <td>33</td>
+                <td>36</td>
+                <td>19</td>
+                <td>26</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td><font color = '0000ff'>6</font>	Palmeiras</td>
+                <td>33</td>
+                <td>29</td>
+                <td>19</td>
+                <td>15</td>
+                <td>14</td>
+            </tr>
+        </table></br>
+            <font color = 'ff0000'>P=pontos/GP=gols marcados/J=numero de jogos/GC=gols sofridos/SG=saldo de gols</font></br></br></br></br>
+    </body>
+</html>
+<html>
+    para voltar clique aqui<a href="AC2_exe04.html"> Index</a>
+</html>
