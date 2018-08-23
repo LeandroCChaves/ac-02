@@ -1,0 +1,37 @@
+Exercicio 05
+
+<html>
+    <body>
+        <center><h1>Cadastro de Editoras</h1></center>
+        <form>   
+            Nome Editora:      <input type="text"></br></br>
+            Endereco Completo: <input type="text"></br></br>
+            CNPJ:              <input type="text"></br></br>
+            Site:              <input type="text"></br></br>
+            Email:             <input type="text"></br></br>
+            Telefone:          <input type="text"></br></br>
+            Contato:           <input type="text"></br></br>
+        </form>
+        <form>
+            Genero de Publicacao da Editora</br>
+            <input type="checkbox" name="Policial">Policial<br/>
+            <input type="checkbox" name="Ficcao">Ficcao<br/>
+            <input type="checkbox" name="Nao Ficcao">Nao Ficcao<br/>
+            <input type="checkbox" name="Religioso">Religioso<br/>
+            <input type="checkbox" name="Esporte">Esporte<br/>
+            <input type="checkbox" name="Profissional">Profissional<br/>
+            <input type="checkbox" name="Outros">Outros
+        </form>
+        <form>
+            <textarea rows='S' cols='50'>
+                Escreva quais
+            </textarea> <br/><br/>
+            <input type="button" value="OK"/><br/><br/>
+        </form>
+            <center><input type="submit" value="Salvar"/><br/><br/>
+            <input type="reset"/></center><br/><br/></br>
+    <body>
+</html>
+<html>
+    para voltar clique aqui<a href="AC2_exe04.html"> Index</a>
+</html>
