@@ -1,0 +1,31 @@
+Exercicio 03
+
+<html>
+    <body>
+        Supermercado</br>
+        <ol>
+        <li>Carne</li>
+        <ul>
+            a. porco</br>
+            b. peixe</br>
+            c. frango</br>
+        </ul>
+        <li>Vegetais</li>
+        <ul>
+            a. cenoura</br>
+            b. tomate</br>
+            c. abobrinha</br>
+        </ul>
+        <li>Diversos</li>
+        <ul>
+            a. arroz</br>
+            b. feijão</br>
+            c.farinha</br>
+            d.café</br>
+        </ul>
+        </ol></br></br></br>
+    </body>
+</html>
+<html>
+    para voltar clique aqui<a href="AC2_exe04.html"> Index</a>
+</html>
